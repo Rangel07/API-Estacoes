@@ -11,6 +11,7 @@ app = Flask(__name__)
 app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///banco.db'
 app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
 app.config['JWT_ALGORITHM'] = 'RS256'
+#Requisitos: criar um par de chaves RS256
 app.config['JWT_PRIVATE_KEY'] = open('rs256.pem').read()
 app.config['JWT_PUBLIC_KEY'] = open('rs256.pub').read()
 

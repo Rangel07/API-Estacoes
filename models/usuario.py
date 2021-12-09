@@ -36,7 +36,7 @@ class UserModel(banco.Model):
         msg.set_content('Seu cadastro foi realizado com sucesso! Esta é sua ApiKey, guarde-a bem! {}'.format(self.apiKey))
         msg['subject'] = 'Cadastrado!'
         msg['to'] = self.email
-        #TODO colocar dados do GMAIL API
+        # Requisitos: colocar credenciais GMAIL API
         user = ''
         msg['from'] = ''
         senha = ''

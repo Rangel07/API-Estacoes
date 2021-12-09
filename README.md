@@ -1,3 +1,7 @@
+# **Considerações iniciais**
+* Necessário configurar credenciais para API GMAIL
+* Necessário criar par de chaves RS256
+
 # 1. Cadastro
 
 ## Requisição
