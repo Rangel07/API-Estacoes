@@ -1,0 +1,10 @@
+#!/bin/bash
+python3 test_endpoint_cadastro.py
+python3 test_endpoint_login.py
+python3 test_endpoint_estacoes.py
+python3 test_endpoint_estacao_nome.py
+python3 test_endpoint_relatorios.py
+python3 test_endpoint_usuarios_estacao.py
+python3 test_endpoint_usuarios_user_id.py
+python3 test_endpoint_adm_relatorio_commit_id.py
+python3 test_endpoint_logout.py

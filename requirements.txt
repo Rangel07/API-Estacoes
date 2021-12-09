@@ -1,0 +1,9 @@
+Flask-RESTful
+flask_sqlalchemy
+flask_jwt_extended
+traceback2
+pysqlite3
+db-sqlite3
+configparser
+requests
+cryptography

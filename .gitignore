@@ -1,0 +1,5 @@
+*.pyc
+desktop.ini
+*.csv
+__pycache__/
+banco.db
