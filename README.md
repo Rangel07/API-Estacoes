@@ -326,7 +326,7 @@ Caso o access_token esteja válido, será retornado uma lista com todos os relat
 - <font color='#e91f1f'> **obs: esses dados são meramente ilustrativos** </font>
 
 ## Requisição
-Postagem de relatórios poderá ser feito somente por estações. Os relatórios devem vir numa lista caso haja problemas de conexão e precise armazenar mais de um relatório.
+Postagem de relatórios poderá ser feito somente por administradores. Os relatórios devem vir numa lista caso haja problemas de conexão e precise armazenar mais de um relatório.
 <table>
 <thead>
 <tr>
